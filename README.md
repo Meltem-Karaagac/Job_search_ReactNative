@@ -1,10 +1,10 @@
 
-<h1 align="center">RN_04 Job Search App</h1>
+<h1 align="center">Job Search App</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://github.com/SemihDurmus/RN_04_Job_Search_App.git">
+    <a href="https://github.com/Meltem-Karaagac/Job_search_ReactNative">
       Project Source
     </a>
  
@@ -127,5 +127,5 @@ $npm install react-native-htmlview --save
 
 ## Contact
 
-- GitHub [SemihDurmus](https://github.com/SemihDurmus)
+- GitHub [SemihDurmus](https://github.com/Meltem-Karaagac)
 - Linkedin [@Semih Durmus](https://www.linkedin.com/in/semih-durmus-0548751b7/)
