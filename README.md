@@ -5,8 +5,8 @@
 <div align="center">
   <h3>
     <a href="https://github.com/Meltem-Karaagac/Job_search_ReactNative">
-      Project Source
-    </a>
+    
+  </a>
  
   </h3>
 </div>
