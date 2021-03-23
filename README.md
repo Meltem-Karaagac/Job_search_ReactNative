@@ -127,5 +127,5 @@ $npm install react-native-htmlview --save
 
 ## Contact
 
-- GitHub [SemihDurmus](https://github.com/Meltem-Karaagac)
-- Linkedin [@Semih Durmus](https://www.linkedin.com/in/semih-durmus-0548751b7/)
+- GitHub [Meltem-Karaagac](https://github.com/Meltem-Karaagac)
+- Linkedln [Meltem-Karaagac](https://www.linkedin.com/in/meltem-karaagac/)
