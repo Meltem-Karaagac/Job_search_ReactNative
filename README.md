@@ -26,7 +26,7 @@
 
 ## Overview
 
-|<img src="visuals/jobsearch.gif" height="500">
+|<img src="overview/job.gif" height="500">
 
 ### Built With
 
